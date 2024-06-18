@@ -1,3 +1,10 @@
+########################################
+# ATTENTION: THERE ARE SOME BUGS IN THE
+# FOLLOWING CODE.
+# IT IS YOUR ASSIGNMENT TO IDENTIFY AND 
+# CORRECT THEM. HAPPY CFDying!
+########################################
+
 import numpy as np
 from matplotlib import pyplot as plt, cm
 from mpl_toolkits.mplot3d import Axes3D
